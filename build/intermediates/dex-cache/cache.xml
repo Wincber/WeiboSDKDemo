@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\aandroidstudio\SDK\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\AsWorkspace\WeiboSDKDemo\weiboSDKDemo\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_873cefc6db76f840dae540d32f7fc65a903da5ba\classes.dex" />
+    </item>
+    <item
+        jar="D:\AsWorkspace\WeiboSDKDemo\weiboSDKDemo\build\intermediates\exploded-aar\WeiboSDKDemo\weiboSDK\unspecified\jars\libs\weibosdkcore_release.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c8f1c91d3a1ccd730dea921e48db54ccc2f6de60">
+        <dex dex="D:\AsWorkspace\WeiboSDKDemo\weiboSDKDemo\build\intermediates\transforms\dex\debug\folders\1000\8\weibosdkcore_release_f3f1c601492edec93e4205b1b0e1595d4030bdd0\classes.dex" />
+    </item>
+    <item
+        jar="D:\AsWorkspace\WeiboSDKDemo\weiboSDKDemo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="30197fdccb076e3c0aa17b0a976b5eec39459e23">
+        <dex dex="D:\AsWorkspace\WeiboSDKDemo\weiboSDKDemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e74b864141e5b6434858d2fb3ed7bb0003776c62\classes.dex" />
+    </item>
+    <item
+        jar="D:\AsWorkspace\WeiboSDKDemo\weiboSDKDemo\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\AsWorkspace\WeiboSDKDemo\weiboSDKDemo\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_9b0150982e9ea8065e8d3e297c68984587146bd8\classes.dex" />
+    </item>
+    <item
+        jar="D:\AsWorkspace\WeiboSDKDemo\weiboSDKDemo\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\AsWorkspace\WeiboSDKDemo\weiboSDKDemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_5749be12ab9c66e2d0d67d612f83540a12d7aac7\classes.dex" />
+    </item>
+    <item
+        jar="D:\AsWorkspace\WeiboSDKDemo\weiboSDKDemo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="829ad1b1f9f468384c91bc69aa09a69784f2a66f">
+        <dex dex="D:\AsWorkspace\WeiboSDKDemo\weiboSDKDemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_48ac3135a9189125ae25ddc51b7499292efc9885\classes.dex" />
+    </item>
+
+</items>

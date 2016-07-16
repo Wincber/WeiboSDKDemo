@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_button_grey_pressed.9.png",
+        "source": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\WeiboSDKDemo\\weiboSDK\\unspecified\\res\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_login_with_account_text_focused.png",
+        "source": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\WeiboSDKDemo\\weiboSDK\\unspecified\\res\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_login_with_account_text_focused.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_login_with_account_text_normal.png",
+        "source": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\WeiboSDKDemo\\weiboSDK\\unspecified\\res\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_login_with_account_text_normal.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_sina_weibo_sdk_weibo_logo.png",
+        "source": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\src\\main\\res\\drawable-xhdpi\\com_sina_weibo_sdk_weibo_logo.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_button_grey_focused.9.png",
+        "source": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\WeiboSDKDemo\\weiboSDK\\unspecified\\res\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_button_grey_focused.9.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_button_blue_focused.9.png",
+        "source": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\WeiboSDKDemo\\weiboSDK\\unspecified\\res\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_button_blue_focused.9.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_button_blue_pressed.9.png",
+        "source": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\WeiboSDKDemo\\weiboSDK\\unspecified\\res\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_login_with_account_text_pressed.png",
+        "source": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\WeiboSDKDemo\\weiboSDK\\unspecified\\res\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_login_with_account_text_pressed.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_button_grey_normal.9.png",
+        "source": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\WeiboSDKDemo\\weiboSDK\\unspecified\\res\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_button_grey_normal.9.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_login_button_with_frame_logo_pressed.png",
+        "source": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\WeiboSDKDemo\\weiboSDK\\unspecified\\res\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_login_button_with_frame_logo_pressed.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_button_blue_normal.9.png",
+        "source": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\WeiboSDKDemo\\weiboSDK\\unspecified\\res\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_button_blue_normal.9.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_login_button_with_frame_logo_focused.png",
+        "source": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\WeiboSDKDemo\\weiboSDK\\unspecified\\res\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_login_button_with_frame_logo_focused.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_logo.png",
+        "source": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\WeiboSDKDemo\\weiboSDK\\unspecified\\res\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_logo.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_login_button_with_frame_logo_normal.png",
+        "source": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\exploded-aar\\WeiboSDKDemo\\weiboSDK\\unspecified\\res\\drawable-xhdpi-v4\\ic_com_sina_weibo_sdk_login_button_with_frame_logo_normal.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_share_music_thumb.png",
+        "source": "D:\\AsWorkspace\\WeiboSDKDemo\\weiboSDKDemo\\src\\main\\res\\drawable-xhdpi\\ic_share_music_thumb.png"
+    }
+]
